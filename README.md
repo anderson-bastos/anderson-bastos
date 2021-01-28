@@ -1,5 +1,7 @@
 # Anderson Bastos :man_technologist:
 
+![](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=mariorez&repo=anderson-bastos&countColorcountColor)
+
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/anderson-bastos/&target=_blank)](https://github.com/anderson-bastos)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anderson-bastos/&target=_blank)](https://www.linkedin.com/in/anderson-bastos/)
 [![HackerRank Badge](https://img.shields.io/badge/-HackerRank-black?style=flat-square&logo=hackerrank&link=https://www.hackerrank.com/andersonmbastos/&target=_blank)](https://www.hackerrank.com/andersonmbastos)
